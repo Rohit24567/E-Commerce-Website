@@ -332,7 +332,15 @@ button:active {
 .book__title {
     font-size: 20px;
     margin-bottom: 8px;
-    padding: 18px;
+    margin-left: 20px;
+}
+
+.book__price--normal {
+    margin-left: 20px;
+}
+
+.book__ratings {
+    margin-left: 20px;
 }
 
 .book__title:hover {
